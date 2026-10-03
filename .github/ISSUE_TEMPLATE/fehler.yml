@@ -1,0 +1,39 @@
+name: Fehler melden
+description: Etwas funktioniert nicht wie erwartet.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Dieses Issue ist öffentlich.** Bitte keine Namen von Personen und keine Screenshots, auf
+        denen Namen zu sehen sind. Einen Bericht mit technischem Protokoll schickst du besser aus der
+        App: Einstellungen → Problem melden.
+  - type: textarea
+    id: was
+    attributes:
+      label: Was ist passiert?
+      description: Was hast du gemacht, was hast du erwartet, was kam stattdessen?
+    validations:
+      required: true
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Schritte zum Nachstellen
+      placeholder: |
+        1. Veröffentlichen öffnen
+        2. …
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Steht im Dateinamen des Setups oder im Fehlerbericht der App.
+      placeholder: 1.0.0
+  - type: dropdown
+    id: system
+    attributes:
+      label: Gerät
+      options:
+        - Windows
+        - Android
+    validations:
+      required: true
