@@ -215,6 +215,7 @@ fragt nach, bevor ungespeicherte Änderungen verloren gehen.
 | Daten sichern | Sicherung erstellen und laden |
 | Mannschaften | Kürzel bestehender Mannschaften umbenennen |
 | Problem melden | Fehlerbericht an den Entwickler schicken |
+| Über die App | Versionsnummer; Lizenz des Ansetzungsplaners und der verwendeten Bibliotheken |
 
 **Regelmäßig sichern.** Die Daten liegen nur auf dem Gerät. Geht das Handy verloren, ist ohne
 Sicherung alles weg. Eine Sicherung nach jedem Planungsabend ist eine gute Gewohnheit; die Datei
