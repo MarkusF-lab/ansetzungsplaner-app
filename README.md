@@ -14,7 +14,9 @@ Die aktuelle Version steht unter **[Releases](https://github.com/MarkusF-lab/ans
 - Windows: `Ansetzungsplaner-Setup-<Version>.exe` herunterladen und starten. Administratorrechte
   sind nicht nötig. Warnt Windows mit „Der Computer wurde durch Windows geschützt“: „Weitere
   Informationen“ → „Trotzdem ausführen“ (das Setup ist nicht signiert).
-- Android: folgt.
+- Android (ab Android 7): `Ansetzungsplaner-<Version>.apk` auf dem Handy herunterladen und öffnen.
+  Die Installation aus dieser Quelle erlauben; warnt Google Play Protect: „Trotzdem installieren“.
+  Updates über die alte Version installieren, nicht vorher deinstallieren, sonst sind die Daten weg.
 
 ## Anleitung
 

@@ -31,7 +31,17 @@ Nach der Installation fragt die App einmal nach dem Verein; danach geht es direk
 Eine neuere Version wird genauso über die alte installiert; die Daten bleiben erhalten, auch beim
 Deinstallieren.
 
-Offen: Wie die Android-App zu euch kommt, steht hier noch nicht.
+**Android installieren**
+
+1. Auf dem Handy `Ansetzungsplaner-<Version>.apk` unter
+   [Releases](https://github.com/MarkusF-lab/ansetzungsplaner-app/releases/latest) herunterladen.
+2. Die Datei öffnen. Fragt Android, ob Apps aus dieser Quelle installiert werden dürfen: für den
+   Browser bzw. die Dateien-App erlauben.
+3. Installieren. Warnt Google Play Protect, weil die App nicht aus dem Play Store kommt: „Trotzdem
+   installieren“.
+
+Eine neuere Version wird genauso über die alte installiert; die Daten bleiben erhalten. Die App
+vorher **nicht** deinstallieren, das löscht alle Daten auf dem Handy.
 
 **Neu einrichten**
 
