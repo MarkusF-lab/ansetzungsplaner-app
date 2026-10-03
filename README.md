@@ -31,3 +31,10 @@ enthält ein technisches Protokoll ohne Namen.
 Alternativ als [Issue](https://github.com/MarkusF-lab/ansetzungsplaner-app/issues/new/choose).
 Issues sind öffentlich: bitte keine Namen von Personen und keine Screenshots, auf denen Namen zu
 sehen sind.
+
+## Lizenz
+
+Kostenlos für Vereine, Abteilungen und Privatpersonen, nicht für gewerbliche Zwecke. Bezug nur über
+diese Seite oder App-Stores, in denen der Entwickler den Ansetzungsplaner selbst veröffentlicht;
+Weitergabe nur mit Zustimmung. Wer die App empfehlen möchte, teilt den Link auf diese Seite.
+Vollständiger Text: [LIZENZ.txt](LIZENZ.txt).

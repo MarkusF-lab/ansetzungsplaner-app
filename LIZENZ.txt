@@ -1,0 +1,30 @@
+Lizenz für den Ansetzungsplaner
+
+Copyright © 2026 Markus Fröhlich. Alle Rechte vorbehalten, soweit diese Lizenz nichts anderes erlaubt.
+
+1. Nutzung
+Der Ansetzungsplaner (Windows-Programm und Android-App) darf kostenlos genutzt werden: von Vereinen, Abteilungen und Privatpersonen, um den eigenen Spielbetrieb zu organisieren. Eine gewerbliche Nutzung ist nicht erlaubt. Das Nutzungsrecht ist einfach, nicht übertragbar und gilt für die Version, mit der diese Lizenz ausgeliefert wurde.
+
+2. Bezug und Weitergabe
+Der Ansetzungsplaner darf nur über die offiziellen Kanäle bezogen werden: die Download-Seite https://github.com/MarkusF-lab/ansetzungsplaner-app/releases sowie App-Stores, in denen der Rechteinhaber ihn selbst veröffentlicht. Das Programm und seine Installationsdateien an andere weiterzugeben, ist nur mit vorheriger Zustimmung des Rechteinhabers in Textform (etwa per E-Mail) erlaubt. Das gilt auch für unveränderte und kostenlose Kopien. Wer den Ansetzungsplaner empfehlen möchte, gibt den Link auf die Download-Seite weiter.
+
+3. Nicht erlaubt
+- den Ansetzungsplaner zu verkaufen, zu vermieten oder in ein kostenpflichtiges Angebot einzubauen,
+- veränderte Fassungen zu verbreiten,
+- Urheber- und Lizenzhinweise zu entfernen,
+- das Programm zu dekompilieren oder zu verändern, soweit das Gesetz (§§ 69d, 69e UrhG) es nicht zwingend erlaubt.
+
+4. Daten von Dritten
+Spielpläne ruft der Ansetzungsplaner von handball.net ab, einem Angebot des Deutschen Handballbundes. Diese Daten gehören nicht zum Ansetzungsplaner; für sie gelten die Nutzungsbedingungen von handball.net. Der Abruf kann jederzeit ohne Vorwarnung wegfallen. Spiele lassen sich dann weiter von Hand erfassen.
+
+5. Gewährleistung und Haftung
+Der Ansetzungsplaner wird unentgeltlich überlassen. Für Mängel wird nur gehaftet, wenn sie arglistig verschwiegen wurden. Im Übrigen wird nur für Vorsatz und grobe Fahrlässigkeit gehaftet; die Haftung nach dem Produkthaftungsgesetz bleibt unberührt. Alle Daten liegen nur auf dem jeweiligen Gerät. Für ihre Sicherung ist, wer die App nutzt, selbst verantwortlich; die App bietet dafür die Funktion „Daten sichern“.
+
+6. Bestandteile Dritter
+Der Ansetzungsplaner enthält Open-Source-Bibliotheken. Für sie gelten ihre eigenen Lizenzen. Die App listet sie unter Einstellungen → Über die App → „Lizenzen anzeigen“ auf.
+
+7. Künftige Versionen
+Künftige Versionen können zu anderen Bedingungen erscheinen, auch kostenpflichtig. Für eine bereits bezogene Version gilt weiter die Lizenz, mit der sie ausgeliefert wurde.
+
+8. Recht
+Es gilt deutsches Recht.
