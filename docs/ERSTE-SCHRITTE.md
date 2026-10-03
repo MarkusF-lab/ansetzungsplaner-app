@@ -83,11 +83,23 @@ prüft die App später jeden Vorschlag.
    sie dann gesperrt.
 6. Speichern.
 
+Die Liste ist alphabetisch sortiert, aktive Personen zuerst. Die Lupe oben öffnet ein Suchfeld; die
+Liste zeigt dann nur Namen, die den Suchtext enthalten (Groß-/Kleinschreibung und Umlaute egal).
+
 Wer eine Weile nicht kann, wird auf inaktiv gestellt statt gelöscht. Inaktive Personen erscheinen
-nicht in der Auswahl. Löschen geht nur, solange eine Person keine Einsätze hat.
+nicht in der Auswahl.
+
+Wer ganz ausscheidet, wird über das Papierkorb-Symbol im Formular entfernt. Hat die Person schon
+Einsätze, wird sie stattdessen anonymisiert: Name, Lizenzen, Mannschaften und Fremdansetzungen
+verschwinden, die Person heißt dann „Ehemalig 1“ usw. Vergangene Einsätze zählen weiter, künftige
+werden frei.
+
+„Einsätze teilen“ (Kalender-Symbol im Formular) erzeugt eine Liste der kommenden Einsätze und
+Fremdansetzungen dieser Person, etwa um sie ihr direkt zu schicken. Am Handy geht sie über das
+Teilen-Menü, am Laptop in die Zwischenablage.
 
 Mannschaften entstehen beim ersten Abruf des Spielplans. Deren Kürzel (etwa F1 für die Frauen)
-lassen sich in den Einstellungen umbenennen.
+stehen auf dem Board unter der Anwurfzeit und lassen sich in den Einstellungen umbenennen.
 
 ## Ein Wochenende besetzen
 
@@ -98,8 +110,8 @@ besetzt sind.
 2. „Spielplan aktualisieren“ (Kreispfeile) tippen. Die App holt die Spiele von handball.net und legt
    beim ersten Mal die Mannschaften an.
 3. Einen freien Platz antippen, etwa „SR 1“. Die Auswahl zeigt die Personen in drei Gruppen:
-   „Verfügbar“, „Mit Hinweis“ und „Nicht möglich“, jeweils mit Begründung und der Zahl bisheriger
-   Einsätze in der Saison.
+   „Verfügbar“, „Mit Hinweis“ und „Nicht möglich“, darin alphabetisch, jeweils mit Begründung und
+   der Zahl bisheriger Einsätze in der Saison. Über das Suchfeld oben findet man eine Person schnell.
 4. Person wählen. Übernimmt ein anderer Verein den Platz, unten „Anderer Verein“ eintragen.
 
 Der Punkt vor dem Namen zeigt das Ergebnis der Prüfung:
@@ -112,7 +124,8 @@ Der Punkt vor dem Namen zeigt das Ergebnis der Prüfung:
 
 **Weitere Handgriffe**
 
-- Platz wieder freigeben: Platz antippen → „Platz leeren“.
+- Platz wieder freigeben: Platz antippen → „Platz leeren“. Versehentlich geleert: „Rückgängig“ in
+  der Meldung.
 - Turnier: „Besetzung von Spiel 1 auf alle übernehmen“ spart das Einzeleintragen.
 - Bemerkung zu einem Spiel (Stift-Symbol), etwa „KG bitte 30 Minuten vor Anwurf da sein“. Sie steht
   später mit im WhatsApp-Text.
@@ -166,7 +179,8 @@ Offene Plätze erscheinen als „offen“. Ab elf Spielen teilt die App das Bild
 **Verfügbarkeit abfragen**
 
 1. „Abfrage“ wählen.
-2. Zeitraum wählen: 2, 4, 6 oder 8 Wochen ab dem kommenden Wochenende. Die App merkt sich die Wahl.
+2. Zeitraum wählen: 1, 2 oder 3 Monate ab dem kommenden Wochenende oder „Saison“ für alle
+   restlichen Spiele bis Ende Juni. Die App merkt sich die Wahl.
 3. Gruppe wählen und den Text teilen bzw. kopieren.
 
 Die Abfrage listet alle Spiele des Zeitraums mit den schon eingeteilten Namen und den offenen
@@ -204,7 +218,9 @@ fragt nach, bevor ungespeicherte Änderungen verloren gehen.
 
 **Regelmäßig sichern.** Die Daten liegen nur auf dem Gerät. Geht das Handy verloren, ist ohne
 Sicherung alles weg. Eine Sicherung nach jedem Planungsabend ist eine gute Gewohnheit; die Datei
-gehört an einen Ort, auf den nur ihr Zugriff habt.
+gehört an einen Ort, auf den nur ihr Zugriff habt. Liegt die letzte Sicherung eine Woche zurück und
+wurde seitdem etwas geändert, erinnert das Board daran; „Jetzt sichern“ erstellt die Sicherung
+direkt.
 
 ## Problem melden
 
